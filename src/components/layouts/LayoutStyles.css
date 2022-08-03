@@ -1,0 +1,28 @@
+.main-wrapper {
+    -webkit-transition: all 0.25s ease-in;
+    transition: all 0.25s ease-in;
+}
+
+* {
+    outline: none;
+    padding: 0;
+}
+
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a {
+    color: #613de6;
+    text-decoration: none;
+    outline: none;
+    padding: 0;
+}
+
+img,
+svg {
+    vertical-align: middle;
+}
